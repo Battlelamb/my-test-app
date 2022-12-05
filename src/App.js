@@ -15,6 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          Patets soğan
           Learn React
         </a>
       </header>
